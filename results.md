@@ -83,55 +83,55 @@
 
 ### Greatest Elo Changes in a Single Match:
 
-1. **Juventus vs. Parma (Stagione 2015)**
-   - Risultato: 0-1
-   - Variazione Elo Juventus: -30 (Nuovo Elo: 1865)
-   - Variazione Elo Parma: +30 (Nuovo Elo: 1477)
+1. **Juventus vs. Parma (Season 2015)**
+   - Result: 0-1
+   - Juventus Elo Change: -30 (New Elo: 1865)
+   - Parma Elo Change: +30 (New Elo: 1477)
 
-2. **Juventus vs. Verona (Stagione 2016)**
-   - Risultato: 1-2
-   - Variazione Elo Juventus: -30 (Nuovo Elo: 1876)
-   - Variazione Elo Verona: +30 (Nuovo Elo: 1504)
+2. **Juventus vs. Verona (Season 2016)**
+   - Result: 1-2
+   - Juventus Elo Change: -30 (New Elo: 1876)
+   - Verona Elo Change: +30 (New Elo: 1504)
 
-3. **Juventus vs. Genoa (Stagione 2019)**
-   - Risultato: 0-2
-   - Variazione Elo Juventus: -30 (Nuovo Elo: 1938)
-   - Variazione Elo Genoa: +30 (Nuovo Elo: 1546)
+3. **Juventus vs. Genoa (Season 2019)**
+   - Result: 0-2
+   - Juventus Elo Change: -30 (New Elo: 1938)
+   - Genoa Elo Change: +30 (New Elo: 1546)
 
-4. **Milan vs. Legnano (Stagione 1952)**
-   - Risultato: 1-2
-   - Variazione Elo Milan: -29 (Nuovo Elo: 1672)
-   - Variazione Elo Legnano: +29 (Nuovo Elo: 1329)
+4. **Milan vs. Legnano (Season 1952)**
+   - Result: 1-2
+   - Milan Elo Change: -29 (New Elo: 1672)
+   - Legnano Elo Change: +29 (New Elo: 1329)
 
-5. **Roma vs. Catania (Stagione 2014)**
-   - Risultato: 1-4
-   - Variazione Elo Roma: -29 (Nuovo Elo: 1777)
-   - Variazione Elo Catania: +29 (Nuovo Elo: 1470)
+5. **Roma vs. Catania (Season 2014)**
+   - Result: 1-4
+   - Roma Elo Change: -29 (New Elo: 1777)
+   - Catania Elo Change: +29 (New Elo: 1470)
 
-6. **Genoa vs. Juventus (Stagione 2015)**
-   - Risultato: 1-0
-   - Variazione Elo Genoa: +29 (Nuovo Elo: 1589)
-   - Variazione Elo Juventus: -29 (Nuovo Elo: 1897)
+6. **Genoa vs. Juventus (Season 2015)**
+   - Result: 1-0
+   - Genoa Elo Change: +29 (New Elo: 1589)
+   - Juventus Elo Change: -29 (New Elo: 1897)
 
-7. **Napoli vs. Empoli (Stagione 2019)**
-   - Risultato: 1-2
-   - Variazione Elo Napoli: -29 (Nuovo Elo: 1807)
-   - Variazione Elo Empoli: +29 (Nuovo Elo: 1497)
+7. **Napoli vs. Empoli (Season 2019)**
+   - Result: 1-2
+   - Napoli Elo Change: -29 (New Elo: 1807)
+   - Empoli Elo Change: +29 (New Elo: 1497)
 
-8. **Juventus vs. SPAL (Stagione 2019)**
-   - Risultato: 1-2
-   - Variazione Elo Juventus: -29 (Nuovo Elo: 1920)
-   - Variazione Elo SPAL: +29 (Nuovo Elo: 1559)
+8. **Juventus vs. SPAL (Season 2019)**
+   - Result: 1-2
+   - Juventus Elo Change: -29 (New Elo: 1920)
+   - SPAL Elo Change: +29 (New Elo: 1559)
 
-9. **Bari vs. Torino (Stagione 1948)**
-   - Risultato: 1-0
-   - Variazione Elo Bari: +28 (Nuovo Elo: 1502)
-   - Variazione Elo Torino: -28 (Nuovo Elo: 1767)
+9. **Bari vs. Torino (Season 1948)**
+   - Result: 1-0
+   - Bari Elo Change: +28 (New Elo: 1502)
+   - Torino Elo Change: -28 (New Elo: 1767)
 
-10. **Roma vs. Torino (Stagione 1950)**
-   - Risultato: 3-1
-   - Variazione Elo Roma: +28 (Nuovo Elo: 1436)
-   - Variazione Elo Torino: -28 (Nuovo Elo: 1720)
+10. **Roma vs. Torino (Season 1950)**
+    - Result: 3-1
+    - Roma Elo Change: +28 (New Elo: 1436)
+    - Torino Elo Change: -28 (New Elo: 1720)
 
 ### Best Elo Changes in a Single Season (Elo Change):
 
