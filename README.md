@@ -10,6 +10,8 @@ The program relies on the following dependencies:
 - Python 3.x
 - BeautifulSoup4
 - Requests
+- Matplotlib
+- Re
 
 ## Usage Instructions
 
