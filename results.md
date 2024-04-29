@@ -162,7 +162,7 @@
 ### Number of Times Each Team Concluded the Season with the Highest Elo:
 *Note: Ambrosiana and Inter are the same team with different names.*
 
-- Juventus: 41 titles (1931, 1932, 1933, 1934, 1935, 1950, 1952, 1953, 1954, 1958, 1960, 1961, 1967, 1973, 1974, 1975, 1977, 1978, 1980, 1981, 1982, 1983, 1984, 1986, 1987, 1995, 1997, 1998, 2001, 2002, 2003, 2005, 2006, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019)
+- Juventus: 41 Titles (1931, 1932, 1933, 1934, 1935, 1950, 1952, 1953, 1954, 1958, 1960, 1961, 1967, 1973, 1974, 1975, 1977, 1978, 1980, 1981, 1982, 1983, 1984, 1986, 1987, 1995, 1997, 1998, 2001, 2002, 2003, 2005, 2006, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019)
 - Milan: 16 Titles (1951, 1955, 1957, 1959, 1962, 1968, 1972, 1979, 1988, 1992, 1993, 1994, 1996, 1999, 2004, 2011)
 - Inter: 11 Titles (1963, 1964, 1965, 1966, 1971, 1989, 2007, 2008, 2009, 2021, 2022)
 - Torino: 5 Titles (1943, 1947, 1948, 1949, 1976)
@@ -176,3 +176,17 @@
 - Sampdoria: 1 Title (1991)
 - Lazio: 1 Title (2000)
 - Atalanta: 1 Title (2020)
+
+### Some Winning Teams Graphs and All-Time Graph:
+*Note: You can generate the others with the plots.py code, choosing your favourite team or a specific season.*
+
+- All-Time (Napoli Focus)
+![elo_ranking_Napoli](https://github.com/walele993/elo_football_project/assets/64219379/8557874d-df9b-4d1e-8ab8-b8e6d780642e)
+
+- Season 1999-2000 (Lazio Focus)
+![elo_ranking_Lazio_2000](https://github.com/walele993/elo_football_project/assets/64219379/3f5e0cb1-41fc-4f86-b837-4c730e7f1e0e)
+
+- Season 2019-2020 (Atalanta Focus)
+![elo_ranking_Atalanta_2020](https://github.com/walele993/elo_football_project/assets/64219379/5ac505b9-128b-4088-a43b-89aa3d5ed57e)
+
+
