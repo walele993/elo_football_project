@@ -1,5 +1,5 @@
 ### Complete Standings (End of Season 2022-2023):
-
+ 
 | Team               | Elo Score | Best Elo Score (Season) |
 |--------------------|-----------|--------------------------|
 | Napoli             | 1839      | 1902 (2018)              |
