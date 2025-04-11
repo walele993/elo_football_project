@@ -1,4 +1,4 @@
-# ⚽ Elo Rating System for Football Leagues
+# ⚽ Elo Rating System for Football Leagues 
 
 *Track team performance over time with an advanced Elo rating system!*  
 
